@@ -1,0 +1,29 @@
+.menu-link
+{
+	text-decoration: none;
+	font-size: 2em;
+	text-transform: uppercase;;
+	font-size: 800;
+	font-family: Roboto, sans-serif;
+	color: black;
+}
+.menu-item
+{
+	height: 3em;
+	align-self: center;
+	margin: 5px;
+
+}
+.title-wrapper
+{
+	margin: 0;
+	background-color:ff0000;
+	border-bottom: 3px solid sans-serif;
+	padding: 10px;
+}
+.image
+{
+  height: 400;
+  width: 500;
+  align-self: center;
+}
